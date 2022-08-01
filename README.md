@@ -1,2 +1,1 @@
-# Summitech-assessment
-An assessment for summitech. Built a movie based app using the imdb api.
+ Built a a basic movie app using the imdb api.
